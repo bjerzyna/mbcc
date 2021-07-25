@@ -1,4 +1,4 @@
-[News]/news.md
+[News](/news.md)
 
 # Welcome to the Mount Burrell Comunity Centre
 
