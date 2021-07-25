@@ -1,3 +1,5 @@
+[news.md]
+
 # Welcome to the Mount Burrell Comunity Centre
 
 ## About Us
